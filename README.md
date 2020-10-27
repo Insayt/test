@@ -1,19 +1,6 @@
-# test
-
-## Project setup
+# Запуск проекта
+В корне выполнить 
 ```
-npm install
+npm i && npm run serve
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+В браузере открыть http://localhost:8080
